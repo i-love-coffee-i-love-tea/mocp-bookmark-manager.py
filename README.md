@@ -9,6 +9,11 @@ I wrote this to keep track of radio recordings and
 positions in DJ mixes I like.
 
 
+## Requirements
+
+Requires python3-urwid 
+
+Developed with urwid version 2.1.2
 
 
 ## Screenshots
